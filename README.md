@@ -1,7 +1,7 @@
 # Welcome to the Windows App Community
 Help shape the future of your favorite apps! Home to enthusiasts and developers from around the world 🌍
 
-[UWP Community Homepage](https://uwpcommunity.com/)
+[Windows App Community Homepage](https://windowsappcommunity.com/)
 
 [Join us on Discord](http://discord.gg/eBHZSKG)
 
