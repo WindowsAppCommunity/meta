@@ -18,15 +18,31 @@ High-level issues, documentation, planning and discussions for the Windows App C
 ## Table of Contents
 
 - [Mission Statement](#mission-statement)
-- [How it works](#how-it-works)
-- [Community Events](./community-events/readme.md)
-- [Staff members](#staff-members)
+- [Code of Conduct](./conduct.md)
+- [Projects](#projects)
+  - [Project Registration](./project-registration.md)
+- [Staff Information](#staff-information)
+  - [Our Staff](#our-staff)
+  - [Staff Documentation](./staff/readme.md)
+    - [New Moderators](./staff/new-mods.md)
+    - [Rules and Responsibilities](./staff/rules-and-responsibilities.md)
+    - [Accountability](./staff/accountability.md)
+- [Getting Involved](#getting-involved)
 
 ## Mission Statement
 
 Rapidly improve software in the community by creating a space where all developers, designers, project managers and users can collaborate together in real time.
 
-## Our staff
+## Community Guidelines
+
+Our community follows a clear [Code of Conduct](./conduct.md) to ensure everyone feels welcome and can collaborate effectively.
+
+## Projects
+
+Projects can register with us through our [Project Registration](./project-registration.md) system to build and engage with their own communities and the broader Windows App Community.
+
+## Staff Information
+
 The documentation we provide to our staff members is openly available [here](./staff/readme.md).
 
 ### Administrators
@@ -51,3 +67,14 @@ These are members who take part to our staff discussions. They can join staff me
 
 > **Note**
 > This role is limited to select members. To join, talk to an administrator.
+
+## Getting Involved
+
+Ready to join our community? Here are the best ways to get started:
+
+1. **[Join our Discord server](http://discord.gg/eBHZSKG)** - Connect with developers and get real-time help
+2. **Read our [Code of Conduct](./conduct.md)** - Understand our community guidelines
+3. **Register your project** - Follow our [Project Registration](./project-registration.md) process to get dedicated support
+4. **Contribute to discussions** - Share your expertise and learn from others
+
+Whether you're a seasoned developer or just starting out, there's a place for you in our community!
