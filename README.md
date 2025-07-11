@@ -30,7 +30,7 @@ Rapidly improve software in the community by creating a space where all develope
 The documentation we provide to our staff members is openly available [here](./staff/readme.md).
 
 ### Administrators
-Manages the server, writes [the rules](./code-of-conduct.md), maintains our infrastructure, coordinates events, moderates chats, and generally steers us towards our [mission statement](#mission-statement).
+Manages the server, writes [the rules](./conduct.md), maintains our infrastructure, coordinates events, moderates chats, and generally steers us towards our [mission statement](#mission-statement).
 
 - [Arlo Godfrey](https://github.com/Arlodotexe)
 - [Michael Hawker](https://github.com/michael-hawker) 
