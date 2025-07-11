@@ -1,7 +1,7 @@
 # Welcome to the Windows App Community
 Help shape the future of your favorite apps! Home to enthusiasts and developers from around the world 🌍
 
-Friendly, open, and professional, all projects -- old, new, big and small -- can thrive here.
+Friendly, open, and professional. All projects -- old, new, big and small -- can thrive here.
 
 [Windows App Community Homepage](https://windowsappcommunity.com/)
 
