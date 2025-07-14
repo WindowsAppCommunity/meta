@@ -2,7 +2,7 @@
 
 [Full list of registered projects](https://windowsappcommunity.com/projects/).
 
-Projects that are registered with us are open to receiving feedback from the public. If the project owner leaves our server, their registered data is and removed from the above list.
+Projects that are registered with us are open to receiving feedback from the public. If the project owner leaves our server, their registered data is deleted and removed from the above list.
 
 ## Table of Contents
 
